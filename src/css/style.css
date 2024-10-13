@@ -10,13 +10,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  order: -1;
   background-color: red;
-  border-radius: 0px 9px 0px 0px;
+  border-radius: 9px 0px 0px 0px;
   flex-basis: calc((106.5%) / 2);
 }
 .item-5 {
   display: flex;
-  border-radius: 0px 9px 0px 0px;
   align-items: center;
   justify-content: center;
   background-color: yellow;
@@ -24,10 +24,9 @@
 }
 .item-3 {
   display: flex;
-  border-radius: 9px 0px 0px 0px;
+  border-radius: 0px 9px 0px 0px;
   align-items: center;
   justify-content: center;
-  order: -1;
   background-color: purple;
   flex-basis: calc((140%) / 3);
 }
