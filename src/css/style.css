@@ -6,7 +6,6 @@
   border: 2px solid black;
   border-radius: 13px 13px 0px 0px;
 }
-/* спільні стилі */
 .item {
   display: flex;
   align-items: center;
